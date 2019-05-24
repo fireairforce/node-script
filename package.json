@@ -1,0 +1,22 @@
+{
+  "name": "node-script",
+  "version": "1.0.0",
+  "description": "平时处理文件或者做事的时候写的一些node-js脚本.",
+  "main": "delete-md.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fireairforce/node-script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fireairforce/node-script/issues"
+  },
+  "homepage": "https://github.com/fireairforce/node-script#readme",
+  "devDependencies": {
+    "upndown": "^2.1.0"
+  }
+}
