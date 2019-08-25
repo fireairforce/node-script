@@ -18,5 +18,8 @@
   "homepage": "https://github.com/fireairforce/node-script#readme",
   "devDependencies": {
     "upndown": "^2.1.0"
+  },
+  "dependencies": {
+    "puppeteer": "^1.19.0"
   }
 }

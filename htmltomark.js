@@ -9,7 +9,6 @@ const promisify = require('util').promisify;
 const read = promisify(fs.readdir);
 const readFiles = promisify(fs.readFile);
 const updown = require('upndown');
-
 const und = new updown();
 
 function file(file) {
